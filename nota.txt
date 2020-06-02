@@ -1,2 +1,11 @@
 Soy una nota
+<<<<<<< HEAD
 Ser nota no es facil
+=======
+Adoro las notas
+A veces la gente me molesta por ser una nota
+Word es tonto
+Sigo sinedo una nota
+Las notas no discriminamos
+Me quiero dormir
+>>>>>>> uwu
